@@ -6,7 +6,11 @@
 - A version control system that prioritizes performance, security, and flexibility
 - A version control system that integrates well with 3rd party software like Jira, Bitbucket, and Jenkins
 
+## Slides from Presentation
+- http://bit.ly/hack-learn-git-slides
+
 ## Learning Platforms
+- https://lab.github.com/
 - https://git-school.github.io/visualizing-git/
 - https://learngitbranching.js.org/
 
